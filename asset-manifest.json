@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d71f9b05.css",
+    "main.js": "/static/js/main.f31870d0.js",
+    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/2022030kj3_172231-02_50.jpeg": "/static/media/2022030kj3_172231-02_50.afbe7881d663e1ecbf66.jpeg",
+    "static/media/pexels-tim-samuel-5838215 (6).jpg": "/static/media/pexels-tim-samuel-5838215 (6).5708038037c8a486e4e3.jpg",
+    "static/media/cryptocurrency.jpg": "/static/media/cryptocurrency.7ebd97ec20fc6f8b0db9.jpg",
+    "static/media/movie.jpg": "/static/media/movie.ece231cad6dec34eae9e.jpg",
+    "static/media/developer.svg": "/static/media/developer.a9ec8c5c735dbf427895fbaf4134c4da.svg",
+    "static/media/email.svg": "/static/media/email.8298740c8257be22e6376c8434a4208d.svg",
+    "static/media/react-native-1.svg": "/static/media/react-native-1.152254c510a991249d9bb36a78f720fc.svg",
+    "static/media/sass-original.svg": "/static/media/sass-original.733b453583952d6c4fecb09ca5274f75.svg",
+    "static/media/react-original.svg": "/static/media/react-original.30662f62003f55101bcdb677f82d0d04.svg",
+    "static/media/responsive-design.svg": "/static/media/responsive-design.ba0bfb18bc38a6a226eaf68a879ed93c.svg",
+    "static/media/nodejs-original.svg": "/static/media/nodejs-original.79e1688384278a24fff5edfc19356421.svg",
+    "static/media/nextjs-original-wordmark.svg": "/static/media/nextjs-original-wordmark.8757459f32f5e8d4f2ceff222b5a6560.svg",
+    "static/media/my-personal-logo.svg": "/static/media/my-personal-logo.5d4ef7206ba9efcd0749c8acc8dfe77e.svg",
+    "static/media/javascript-original.svg": "/static/media/javascript-original.526f105c6f59877297ebc5b674c787fe.svg",
+    "static/media/github.svg": "/static/media/github.485d7f4e143ed276018ee832bd003c28.svg",
+    "static/media/typescript-original.svg": "/static/media/typescript-original.69d2c177ef40199b5790764e48710e85.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.9452ff841c4513b3d7b1baa4258bc687.svg",
+    "static/media/git-original.svg": "/static/media/git-original.caaae703be744692631e6f4e04b3c8b5.svg",
+    "index.html": "/index.html",
+    "static/media/firebase-icon.svg": "/static/media/firebase-icon.82a35fc0b90d124a8e7333989f767fd3.svg",
+    "static/media/iconmonstr-menu-1.svg": "/static/media/iconmonstr-menu-1.b68806d7a6188aa94f5a9d33a9977695.svg",
+    "main.d71f9b05.css.map": "/static/css/main.d71f9b05.css.map",
+    "main.f31870d0.js.map": "/static/js/main.f31870d0.js.map",
+    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d71f9b05.css",
+    "static/js/main.f31870d0.js"
+  ]
+}
